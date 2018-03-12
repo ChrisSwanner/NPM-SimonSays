@@ -1,0 +1,12 @@
+body {
+  display: block;
+  text-align: center;
+  margin: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: black;
+}
+
+#check {
+  margin: 20px;
+}
